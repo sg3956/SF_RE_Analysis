@@ -1,6 +1,6 @@
 # SF_RE_Analysis
 
-This program aims to provide insights about rental amounts and sales prices of properties in San Francisco, using interactive dashboards. The program will assist the investors to decide on their investment options through one-click-buy-rent-strategy.
+This program aims to provide insights about rental amounts and sales prices of properties in San Francisco, using interactive dashboards. The program will assist the investors to decide on their investment options and can apply one-click-buy-rent-strategy.
 
 
 
