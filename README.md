@@ -48,7 +48,7 @@ The following charts and interactive dashboards will appear upon running the pro
  
  
  
-![Screenshot 2023-02-19 at 9.42.30 PM.png (https://github.com/sg3956/SF_RE_Analysis/blob/cd576ddb71a76c443fba4fc93288df15ecef0559/Screenshot%202023-02-19%20at%209.42.30%20PM.png)
+![Screenshot 2023-02-19 at 9.42.30 PM.png] (https://github.com/sg3956/SF_RE_Analysis/blob/cd576ddb71a76c443fba4fc93288df15ecef0559/Screenshot%202023-02-19%20at%209.42.30%20PM.png)
 
 
 ---
