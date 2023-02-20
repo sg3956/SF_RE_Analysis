@@ -65,15 +65,6 @@ The following charts and interactive dashboards will appear upon running the pro
 
 ---
 
-
----
-
-
----
-
-
----
-
 ## Contributors
 
 Soheil Gityforoze
