@@ -51,6 +51,27 @@ The following charts and interactive dashboards will appear upon running the pro
 ![Screenshot](https://raw.githubusercontent.com/sg3956/SF_RE_Analysis/main/Screenshot_1.png)
 
 
+
+![Screenshot](https://raw.githubusercontent.com/sg3956/SF_RE_Analysis/main/Screenshot_2.png)
+
+
+
+![Screenshot](https://raw.githubusercontent.com/sg3956/SF_RE_Analysis/main/Screenshot_3.png)
+
+
+
+![Screenshot](https://raw.githubusercontent.com/sg3956/SF_RE_Analysis/main/Screenshot_4.png)
+
+
+---
+
+
+---
+
+
+---
+
+
 ---
 
 ## Contributors
